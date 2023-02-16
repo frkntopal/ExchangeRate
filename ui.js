@@ -6,6 +6,7 @@ function UI() {
     this.amount = document.getElementById("amount");
     this.calculate = document.getElementById("calculate");
     this.result = document.getElementById("result");
+    this.other_result = document.querySelector("#other_result");
 
 
 }
